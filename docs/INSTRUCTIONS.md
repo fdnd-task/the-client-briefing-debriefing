@@ -19,7 +19,7 @@ Het briefingproces bestaat uit twee delen: een briefing van de opdrachtgever en 
 
 <img width="1387" alt="image" src="https://user-images.githubusercontent.com/1391509/192163684-20b3de5e-37a4-4efa-963d-3e6c57d57d48.png">
 
-De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat hij voor ogen had. 
+De debriefing is noodzakelijk voor de opdrachtgever om na te gaan of duidelijk is overgekomen wat ze voor ogen hebben. 
 Maar ook voor jou en je team om te controleren of je alles goed hebt begrepen en geconcretiseerd.
 
 
@@ -55,8 +55,8 @@ Het briefingproces bestaat uit twee delen:
  - Debriefing, ofwel de terugkoppeling dat je alles goed begrepen heeft.
 
 De debriefing is noodzakelijk voor:
-- De opdrachtgever om na te gaan, of duidelijk is overgekomen, wat hij voor ogen had
-- Voor jou om te controleren of je alles goed heeft begrepen en geconcretiseerd.
+- De opdrachtgever om na te gaan, of duidelijk is overgekomen, wat ze voor ogen hadden
+- Voor jou om te controleren of je alles goed hebt begrepen en geconcretiseerd.
 
 #### In een debriefing komen deze zaken aan bod:
 
@@ -71,7 +71,7 @@ Voor welke organisatie ga je de opdracht uitvoeren?
 ##### 2. Achtergrondinformatie
 
 Wie is de opdrachtgever? 
-- Welke diensten biedt hij aan?
+- Welke diensten bieden ze aan?
 - Wat zijn de unique selling points van het bedrijf?
 - Zijn er belangrijk mijlpalen of gebeurtenissen?
 - …
