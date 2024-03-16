@@ -1,4 +1,4 @@
-# The Cient - Briefing/Debriefing
+# Briefing/Debriefing
 
 Schrijf een debriefing op basis van een briefing van een opdrachtgever.
 
